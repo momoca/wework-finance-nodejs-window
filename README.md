@@ -19,7 +19,7 @@ npm install koffi
 建议目录：
 
 ```txt
-wework-finance-nodejs/
+wework-finance-nodejs-window/
   WeWorkFinanceSdk.dll
   libcrypto-3-x64.dll
   libssl-3-x64.dll
