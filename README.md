@@ -1,4 +1,4 @@
-# 企业微信会话存档 SDK Node.js 版（Koffi）
+# 企业微信会话存档 SDK - Node.js Window 版示例
 
 这是一个基于 `koffi` 的 Node.js 封装版本，用来直接调用 `WeWorkFinanceSdk.dll`。
 
