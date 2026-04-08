@@ -1,0 +1,13 @@
+{
+  "name": "wework-finance-sdk-node-demo",
+  "version": "1.0.1",
+  "private": true,
+  "type": "commonjs",
+  "main": "wework-finance-sdk.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "dependencies": {
+    "koffi": "^2.15.1"
+  }
+}
